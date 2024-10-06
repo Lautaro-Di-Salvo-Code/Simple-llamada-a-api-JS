@@ -1,3 +1,4 @@
-# Simple-llamada-a-api-JS
+# Simple-llamada-a-api-JS / recordatorio de la sintaxis
 
-![image](https://github.com/user-attachments/assets/08621c4b-ea91-4494-8173-225b09ad92ee)
+![image](https://github.com/user-attachments/assets/44af1240-94a0-4a24-a23c-a67d593fc838)
+
